@@ -1,5 +1,5 @@
 # Simple Calculator C++ WinForms
-Simple calculator made with C++/CLR and Windows Forms.
+Simple calculator made with C++/CLI and Windows Forms.
 
 ## How to run
 Open file "Simple C++ Calculator.exe" available in releases
